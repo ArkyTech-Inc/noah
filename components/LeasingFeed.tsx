@@ -1,6 +1,6 @@
 'use client'
 
-import { MapPin, Home, DollarSign, Users } from 'lucide-react';
+import { MapPin, Home, Users } from 'lucide-react';
 
 interface ListingCardProps {
   id: string;

@@ -252,7 +252,7 @@ export function PropertyDetail({ listingId, onBack }: PropertyDetailProps) {
             <div className="bg-primary text-primary-foreground p-8 space-y-4 sticky top-4">
               <div>
                 <p className="text-sm opacity-90 mb-1">Monthly Rent</p>
-                <p className="font-serif text-4xl font-bold">${property.price.toLocaleString()}</p>
+                <p className="font-serif text-4xl font-bold">₦{property.price.toLocaleString()}</p>
               </div>
               <button className="w-full bg-primary-foreground text-primary font-bold py-3 hover:opacity-90 transition-opacity">
                 Schedule Tour
