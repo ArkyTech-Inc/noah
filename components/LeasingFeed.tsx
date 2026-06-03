@@ -107,7 +107,7 @@ export function LeasingFeed({ onSelectListing, onBack }: LeasingFeedProps) {
         <div className="mb-12 flex items-center justify-between">
           <div>
             <h2 className="font-serif text-4xl font-bold text-foreground mb-2">Available Listings</h2>
-            <p className="text-muted-foreground">Curated homes in architectural communities</p>
+            <p className="text-muted-foreground">Curated homes from all around the FCT</p>
           </div>
           <button
             onClick={onBack}

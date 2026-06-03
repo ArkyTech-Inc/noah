@@ -7,10 +7,9 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 const _cormorant = Cormorant_Garamond({ subsets: ["latin"], weight: ['400', '500', '600', '700'] });
 
 export const metadata: Metadata = {
-  title: 'Noah - Architectural Rental Intelligence',
-  description: 'The architecture of trust in Abuja residential real estate',
-  
-}
+  title: 'Noah - Intersecting Real Estate and Technology',
+  description: 'Providing foundational trust in Abuja residential real estate',
+  }
 
 export default function RootLayout({
   children,
