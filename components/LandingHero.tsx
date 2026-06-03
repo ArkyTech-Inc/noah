@@ -13,7 +13,7 @@ export function LandingHero({ onViewLeasing }: LandingHeroProps) {
             Noah.
           </h1>
           <h2 className="font-serif text-4xl md:text-5xl text-foreground font-normal leading-tight">
-            The Architecture of Trust
+            The Architect of Trust
           </h2>
         </div>
 
